@@ -58,13 +58,6 @@ g++ main.cpp -o attendance.exe
 ./attendance.exe
 ```
 
----
-
-## Screenshots (optional)
-> Add terminal screenshots showing admin login, student login, registration, and attendance count.
-
----
-
 ## Admin Credentials
 
 ```
